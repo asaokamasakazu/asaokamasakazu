@@ -1,6 +1,10 @@
 ## ![am1 2 2](https://github.com/asaokamasakazu/asaokamasakazu/assets/107730981/996bdfb6-d190-44e4-a53c-d70c780b5df1) I'm Asaoka Masakazu - @asaokamasakazu
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=asaokamasakazu&theme=algolia&title=Commit,PullRequest,Reviews,Issues,Repositories&margin-w=37&margin-h=5&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- privateリポジトリを含まないバージョン -->
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=asaokamasakazu&theme=algolia&title=Commit,PullRequest,Reviews,Issues,Repositories&margin-w=37&margin-h=5&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy) -->
+
+<!-- privateリポジトリを含むバージョン -->
+![trophy](https://github-profile-trophy-pink.vercel.app/?username=asaokamasakazu&theme=algolia&title=Commit,PullRequest,Reviews,Issues,Repositories&margin-w=37&margin-h=5&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- [![](https://raw.githubusercontent.com/asaokamasakazu/asaokamasakazu/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
 
