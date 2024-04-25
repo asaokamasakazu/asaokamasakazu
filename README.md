@@ -6,8 +6,6 @@
 <!-- privateリポジトリを含むバージョン -->
 [![trophy](https://github-profile-trophy-pink.vercel.app/?username=asaokamasakazu&theme=algolia&title=MultiLanguage,Commit,PullRequest,Reviews,Issues,Repositories&margin-w=7&margin-h=5&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!-- [![](https://raw.githubusercontent.com/asaokamasakazu/asaokamasakazu/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
-
 [![](https://raw.githubusercontent.com/asaokamasakazu/asaokamasakazu/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/asaokamasakazu/asaokamasakazu/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asaokamasakazu&theme=github_dark&utcOffset=9)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
