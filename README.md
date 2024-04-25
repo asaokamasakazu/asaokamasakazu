@@ -13,8 +13,8 @@
 
 ![Static Badge](https://img.shields.io/badge/php-running-blueviolet?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/laravel-running-orange?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/vue-running-yellowgreen?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/typescript-running-blue?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/vue-running-yellowgreen?style=for-the-badge)
 
 ![Static Badge](https://img.shields.io/badge/editor-phpstorm-lightgray?style=for-the-badge)
 
