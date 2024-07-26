@@ -3,7 +3,7 @@
 <!-- trophy privateリポジトリなし -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=asaokamasakazu&theme=algolia&title=Commit,PullRequest,Reviews,Issues,Repositories&margin-w=37&margin-h=5&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy) -->
 <!-- trophy privateリポジトリあり -->
-[![trophy](https://github-profile-trophy-pink.vercel.app/?username=asaokamasakazu&theme=algolia&title=MultiLanguage,Commit,PullRequest,Reviews,Issues,Repositories&margin-w=7&margin-h=5&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-pink.vercel.app/?username=asaokamasakazu&theme=algolia&title=MultiLanguage,PullRequest,Reviews,Issues,Repositories&margin-w=16&margin-h=5&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- shields -->
 ![Static Badge](https://img.shields.io/badge/work-backend_engineer-lightblue?style=for-the-badge)
