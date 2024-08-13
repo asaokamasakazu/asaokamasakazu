@@ -14,7 +14,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Alien.webp" alt="Alien" width="30" height="30" /> Languages and Tools
 |★★★|★★|★|
 |---|---|---|
-|[![skill icons](https://skillicons.dev/icons?i=laravel,php,mysql,git,github,phpstorm,postman&perline=4&theme=dark)](#)|[![skill icons](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,vue,nuxtjs,react,nextjs&perline=4&theme=dark)](#)|[![skill icons](https://skillicons.dev/icons?i=githubactions,ruby,rails,aws,docker,nginx,blender,ai,ps&perline=4&theme=dark)](#)|
+|[![skill icons](https://skillicons.dev/icons?i=laravel,php,mysql,git,github,phpstorm,postman&perline=4&theme=dark)](#)|[![skill icons](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,vue,nuxtjs,react,nextjs,githubactions&perline=4&theme=dark)](#)|[![skill icons](https://skillicons.dev/icons?i=ruby,rails,aws,docker,nginx,blender,ai,ps&perline=4&theme=dark)](#)|
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Star%20Struck.webp" alt="Star Struck" width="30" height="30" /> My Trophies
 [![trophies](https://github-profile-trophy-pink.vercel.app/?username=asaokamasakazu&theme=algolia&title=MultiLanguage,PullRequest,Reviews,Issues,Repositories&margin-w=8&margin-h=5&no-bg=true&no-frame=true)](#)
