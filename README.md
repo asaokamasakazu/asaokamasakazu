@@ -24,13 +24,14 @@
 [![stats](https://raw.githubusercontent.com/asaokamasakazu/asaokamasakazu/master/profile-summary-card-output/github_dark/3-stats.svg)](#)
 [![stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asaokamasakazu&theme=github_dark&utcOffset=9)](#)
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Video%20Game.webp" alt="Video Game" width="30" height="30" /> My Favorite Games
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Video%20Game.webp" alt="Video Game" width="30" height="30" /> My Favorites
 - GRAGON QUEST Ⅴ
 - GRAGON QUEST Ⅹ
 - FINAL FANTASY Ⅶ
 - FINAL FANTASY ⅩⅢ
-- NieR:Automata
+- FINAL FANTASY ⅩⅣ
 - OCTOPATH TRAVELER
+- NieR:Automata
 - STREET FIGHTER
 - MONSTER HUNTER
 - Slay the Spire
