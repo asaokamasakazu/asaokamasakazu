@@ -25,21 +25,15 @@
 [![stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asaokamasakazu&theme=github_dark&utcOffset=9)](#)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Video%20Game.webp" alt="Video Game" width="30" height="30" /> My Favorites
-- GRAGON QUEST Ⅴ
-- GRAGON QUEST Ⅹ
-- FINAL FANTASY Ⅶ
-- FINAL FANTASY ⅩⅢ
-- FINAL FANTASY ⅩⅣ
+- GRAGON QUEST (Ⅴ, Ⅹ)
+- FINAL FANTASY (Ⅶ, ⅩⅢ, ⅩⅣ)
 - OCTOPATH TRAVELER
 - NieR:Automata
-- STREET FIGHTER
+- DUNGEON ENCOUNTERS
 - MONSTER HUNTER
+- STREET FIGHTER
 - Slay the Spire
 - Sea of Stars
 - Cyberpunk 2077
-
-<!-- 
-## My Best Games
--->
 
 Thanks for visiting! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Octopus.webp" alt="Octopus" width="25" height="25" />
