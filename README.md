@@ -1,20 +1,19 @@
 ## <img src="https://github.com/asaokamasakazu/asaokamasakazu/assets/107730981/996bdfb6-d190-44e4-a53c-d70c780b5df1" alt="slime" width="30" height="30" /> I'm Asaoka Masakazu - @asaokamasakazu
 ![Static Badge](https://img.shields.io/badge/work-backend_engineer-lightblue?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/style-remote-red?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/style-remote-blue?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/life-vtuber-yellow?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/cat-rura-pink?style=for-the-badge)
 
 ![Static Badge](https://img.shields.io/badge/php-running-blueviolet?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/laravel-running-orange?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/typescript-running-blue?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/vue-running-yellowgreen?style=for-the-badge)
-
 ![Static Badge](https://img.shields.io/badge/editor-phpstorm-lightgray?style=for-the-badge)
+<!-- ![Static Badge](https://img.shields.io/badge/typescript-running-red?style=for-the-badge) -->
+<!-- ![Static Badge](https://img.shields.io/badge/vue-running-yellowgreen?style=for-the-badge) -->
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Alien.webp" alt="Alien" width="30" height="30" /> Languages and Tools
 |★★★|★★|★|
 |---|---|---|
-|[![skill icons](https://skillicons.dev/icons?i=php,laravel,mysql,git,github,githubactions,phpstorm&perline=4&theme=dark)](#)|[![skill icons](https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxtjs,react,nextjs,nodejs,express,postman&perline=4&theme=dark)](#)|[![skill icons](https://skillicons.dev/icons?i=tailwind,ruby,rails,aws,docker,nginx,blender,ai,ps&perline=4&theme=dark)](#)|
+|[![skill icons](https://skillicons.dev/icons?i=php,laravel,mysql,git,github,githubactions,phpstorm&perline=4&theme=dark)](#)|[![skill icons](https://skillicons.dev/icons?i=ruby,rails,ts,vue,nuxtjs,react,nextjs,nodejs,express,postman&perline=4&theme=dark)](#)|[![skill icons](https://skillicons.dev/icons?i=tailwind,aws,docker,nginx,blender,ai,ps&perline=4&theme=dark)](#)|
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Star%20Struck.webp" alt="Star Struck" width="30" height="30" /> My Trophies
 [![trophies](https://github-profile-trophy-pink.vercel.app/?username=asaokamasakazu&theme=algolia&title=MultiLanguage,PullRequest,Reviews,Issues,Repositories&margin-w=8&margin-h=5&no-bg=true&no-frame=true)](#)
