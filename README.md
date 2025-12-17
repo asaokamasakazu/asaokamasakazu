@@ -21,8 +21,9 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Television.webp" alt="Television" width="30" height="30" /> My GitHub Stats
 [![stats](https://raw.githubusercontent.com/asaokamasakazu/asaokamasakazu/master/profile-summary-card-output/github_dark/0-profile-details.svg)](#)
-[![stats](https://raw.githubusercontent.com/asaokamasakazu/asaokamasakazu/master/profile-summary-card-output/github_dark/3-stats.svg)](#)
-[![stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asaokamasakazu&theme=github_dark&utcOffset=9)](#)
+
+<!-- [![stats](https://raw.githubusercontent.com/asaokamasakazu/asaokamasakazu/master/profile-summary-card-output/github_dark/3-stats.svg)](#) -->
+<!-- [![stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asaokamasakazu&theme=github_dark&utcOffset=9)](#) -->
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Video%20Game.webp" alt="Video Game" width="30" height="30" /> My Favorites
 ### Game
