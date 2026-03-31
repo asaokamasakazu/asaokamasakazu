@@ -16,9 +16,6 @@
 |---|---|---|
 |[![skill icons](https://skillicons.dev/icons?i=php,laravel,mysql,git,github,githubactions,phpstorm&perline=4&theme=dark)](#)|[![skill icons](https://skillicons.dev/icons?i=ruby,rails,ts,vue,nuxtjs,react,nextjs,nodejs,express,postman&perline=4&theme=dark)](#)|[![skill icons](https://skillicons.dev/icons?i=go,tailwind,aws,docker,nginx,figma,blender,ai,ps,discord&perline=4&theme=dark)](#)|
 
-<!-- ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Star%20Struck.webp" alt="Star Struck" width="30" height="30" /> My Trophies -->
-<!-- [![trophies](https://github-profile-trophy-pink.vercel.app/?username=asaokamasakazu&theme=algolia&title=MultiLanguage,PullRequest,Reviews,Issues,Repositories&margin-w=8&margin-h=5&no-bg=true&no-frame=true)](#) -->
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Television.webp" alt="Television" width="30" height="30" /> My GitHub Stats
 [![stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asaokamasakazu&theme=github_dark)](#)
 
