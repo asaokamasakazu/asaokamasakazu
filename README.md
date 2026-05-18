@@ -1,3 +1,50 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asaokamasakazu&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asaokamasakazu&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=asaokamasakazu&theme=2077)
+## <img src="https://github.com/asaokamasakazu/asaokamasakazu/assets/107730981/996bdfb6-d190-44e4-a53c-d70c780b5df1" alt="slime" width="30" height="30" /> I'm Asaoka Masakazu - @asaokamasakazu
+![Static Badge](https://img.shields.io/badge/work-backend_engineer-lightblue?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/style-remote-blue?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/life-vtuber-yellow?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/cat-rura-pink?style=for-the-badge)
+
+![Static Badge](https://img.shields.io/badge/rails-running-red?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/laravel-running-orange?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/editor-jetbrains-lightgray?style=for-the-badge)
+<!-- ![Static Badge](https://img.shields.io/badge/php-running-blueviolet?style=for-the-badge) -->
+<!-- ![Static Badge](https://img.shields.io/badge/typescript-running-red?style=for-the-badge) -->
+<!-- ![Static Badge](https://img.shields.io/badge/vue-running-yellowgreen?style=for-the-badge) -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Alien.webp" alt="Alien" width="30" height="30" /> Languages and Tools
+|★★★|★★|★|
+|---|---|---|
+|[![skill icons](https://skillicons.dev/icons?i=php,laravel,mysql,git,github,githubactions,phpstorm&perline=4&theme=dark)](#)|[![skill icons](https://skillicons.dev/icons?i=ruby,rails,ts,vue,nuxtjs,react,nextjs,nodejs,express,postman&perline=4&theme=dark)](#)|[![skill icons](https://skillicons.dev/icons?i=go,tailwind,aws,docker,nginx,figma,blender,ai,ps,discord&perline=4&theme=dark)](#)|
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Television.webp" alt="Television" width="30" height="30" /> My GitHub Stats
+[![stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asaokamasakazu&theme=github_dark)](#)
+
+<!--
+[![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=asaokamasakazu&theme=github_dark)](#)
+[![stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asaokamasakazu&theme=github_dark&utcOffset=9)](#)
+ -->
+
+<!--
+[![stats](https://raw.githubusercontent.com/asaokamasakazu/asaokamasakazu/master/profile-summary-card-output/github_dark/3-stats.svg)](#)
+[![stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asaokamasakazu&theme=github_dark&utcOffset=9)](#)
+-->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Video%20Game.webp" alt="Video Game" width="30" height="30" /> My Favorites
+### Game
+- GRAGON QUEST (Ⅴ, Ⅹ)
+- FINAL FANTASY (Ⅶ, ⅩⅢ, ⅩⅣ)
+- OCTOPATH TRAVELER
+- NieR:Automata
+- DUNGEON ENCOUNTERS
+- MONSTER HUNTER
+- STREET FIGHTER
+- Slay the Spire
+- Sea of Stars
+- Cyberpunk 2077
+
+### Mobile Suit
+- GUNDAM GP02A
+- KSHATRIYA
+- ⅩⅠ GUNDAM
+
+Thanks for visiting! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Octopus.webp" alt="Octopus" width="25" height="25" />
