@@ -31,15 +31,14 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Video%20Game.webp" alt="Video Game" width="30" height="30" /> My Favorites
 ### Game
-- GRAGON QUEST (Ⅴ, Ⅹ)
-- FINAL FANTASY (Ⅶ, ⅩⅢ, ⅩⅣ)
+- GRAGON QUEST
+- FINAL FANTASY
 - OCTOPATH TRAVELER
 - NieR:Automata
 - DUNGEON ENCOUNTERS
-- MONSTER HUNTER
 - STREET FIGHTER
+- MONSTER HUNTER
 - Slay the Spire
-- Sea of Stars
 - Cyberpunk 2077
 
 ### Mobile Suit
